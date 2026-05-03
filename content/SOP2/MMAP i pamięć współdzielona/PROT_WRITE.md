@@ -1,0 +1,1 @@
+Można pisać do pamięci

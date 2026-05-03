@@ -1,0 +1,1 @@
+Bloki pamięci mogą być wykonywalne (traktujemy pamięć jako executable)

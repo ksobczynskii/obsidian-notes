@@ -1,0 +1,1 @@
+![[IPC WITH MEMORY-MAPPER FILES.png]]Wiele Procesów może czytać i pisać do wspólnego mappingu do tego samego regionu fizycznej pamięci backupowane przez plik z pamięci

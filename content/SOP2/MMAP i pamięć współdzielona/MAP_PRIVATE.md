@@ -1,0 +1,1 @@
+Zmiany są prywatne i nie są aktualizowane do reprezentowanego pliku

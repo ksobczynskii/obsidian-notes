@@ -1,0 +1,1 @@
+Pamięć nie może być w ogóle używana

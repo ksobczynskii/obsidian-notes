@@ -1,0 +1,4 @@
+[[PROT_READ]] 
+[[PROT_WRITE]]
+[[PROT_EXEC]]
+[[PROT_NONE]] 

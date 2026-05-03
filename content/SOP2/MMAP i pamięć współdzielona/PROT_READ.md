@@ -1,0 +1,1 @@
+Pamięć może być czytana
