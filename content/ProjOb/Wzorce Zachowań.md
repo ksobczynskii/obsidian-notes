@@ -1,0 +1,7 @@
+1. [[Chain Of Responsibility]] 
+2. [[Command]] 
+3. [[Intepreter]] 
+4. [[Iterator]] 
+5. [[Observer]] 
+6. [[Template Method]] 
+7. [[Visitor]] 

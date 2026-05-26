@@ -1,0 +1,5 @@
+1. [[CCP - Common Closure Principle]] 
+2. [[CRP - Common Reuse Principle]] 
+3. [[ADP - Acyclic Dependencies Principle]] 
+4. [[SDP - Stable Dependencies Principle]] 
+5. [[SAP - Stable Abstractions Principle]] 
