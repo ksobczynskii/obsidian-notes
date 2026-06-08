@@ -1,0 +1,2 @@
+Instrukcje CPU udostępniają m.in. **Relatywne instrukcje adresacji**. Programy rzadko specyfikują adresy absolutne, dużo częściej instrukcje mówią o offsecie relatywnym do wartości jakiegoś rejestru.![[Zrzut ekranu 2026-06-8 o 12.17.04.png]]
+Instruction pointer relative addresing to sztuczka aby dostać kod **niezależny od pozycji**. Używając tych instrukcji kompilator generuje finalną wersję lokalnych wywołań.

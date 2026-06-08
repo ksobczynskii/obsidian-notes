@@ -1,0 +1,8 @@
+1. [[Fizyczna przestrzeń adresowa]] 
+2. [[System Memory Map]] 
+3. [[North Bridge]] 
+4. [[Współczesna Architektura SOC]] 
+5. [[Translacja Adresów]] 
+6. [[Fragmentacja]] 
+7. [[Segmentacja]]
+8. [[Paging]] 

@@ -1,0 +1,1 @@
+Po jakimś czasie działania komputera, PAS jest fragmentowany. taski pozostawiają duży set poszatkowanych, nieciągłych dziur, które nie mogą być użyte. System staje się niestabilny przez ***Fragmentację Zewnętrzną*** ![[Zrzut ekranu 2026-06-8 o 13.34.41.png]]

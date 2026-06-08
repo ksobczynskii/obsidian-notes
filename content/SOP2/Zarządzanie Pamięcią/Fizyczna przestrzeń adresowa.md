@@ -1,0 +1,1 @@
+Definiuje się tą przestrzeń jako zbiór dostępnych adresów fizycznych używalnych przez program. Zazwyczaj inne niż logiczna przestrzeń dzięki translacji adresów wykonywanej przes system![[Zrzut ekranu 2026-06-8 o 13.11.52.png]]
